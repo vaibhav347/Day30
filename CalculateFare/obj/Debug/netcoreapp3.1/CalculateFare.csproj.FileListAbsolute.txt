@@ -1,0 +1,14 @@
+C:\Day30\CalculateFare\bin\Debug\netcoreapp3.1\CalculateFare.exe
+C:\Day30\CalculateFare\bin\Debug\netcoreapp3.1\CalculateFare.deps.json
+C:\Day30\CalculateFare\bin\Debug\netcoreapp3.1\CalculateFare.runtimeconfig.json
+C:\Day30\CalculateFare\bin\Debug\netcoreapp3.1\CalculateFare.runtimeconfig.dev.json
+C:\Day30\CalculateFare\bin\Debug\netcoreapp3.1\CalculateFare.dll
+C:\Day30\CalculateFare\bin\Debug\netcoreapp3.1\CalculateFare.pdb
+C:\Day30\CalculateFare\obj\Debug\netcoreapp3.1\CalculateFare.csproj.AssemblyReference.cache
+C:\Day30\CalculateFare\obj\Debug\netcoreapp3.1\CalculateFare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Day30\CalculateFare\obj\Debug\netcoreapp3.1\CalculateFare.AssemblyInfoInputs.cache
+C:\Day30\CalculateFare\obj\Debug\netcoreapp3.1\CalculateFare.AssemblyInfo.cs
+C:\Day30\CalculateFare\obj\Debug\netcoreapp3.1\CalculateFare.csproj.CoreCompileInputs.cache
+C:\Day30\CalculateFare\obj\Debug\netcoreapp3.1\CalculateFare.dll
+C:\Day30\CalculateFare\obj\Debug\netcoreapp3.1\CalculateFare.pdb
+C:\Day30\CalculateFare\obj\Debug\netcoreapp3.1\CalculateFare.genruntimeconfig.cache
